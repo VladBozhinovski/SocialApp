@@ -74,6 +74,8 @@ namespace SocialApp.API.Controllers
             {
                 token = tokenHandler.WriteToken(token)
             });
+
         }
+
     }
 }
